@@ -5,6 +5,11 @@ import jakarta.jms.Message;
 import jakarta.jms.MessageListener;
 import jakarta.jms.TextMessage;
 
+/**
+ 
+Mariana Pedroso Naves 2320720
+Andrei Fernandes Zani 2367831
+*/
 
 @MessageDriven( activationConfig={
 @ActivationConfigProperty(
