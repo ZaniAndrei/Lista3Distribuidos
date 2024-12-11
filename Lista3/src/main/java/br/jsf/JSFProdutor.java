@@ -8,9 +8,10 @@ import jakarta.jms.JMSContext;
 import jakarta.jms.Queue;
 
 /**
- *
- * @author lucio
- */
+ 
+Mariana Pedroso Naves 2320720
+Andrei Fernandes Zani 2367831
+*/
 @Named(value = "JSFProdutor")
 @RequestScoped
 public class JSFProdutor {
